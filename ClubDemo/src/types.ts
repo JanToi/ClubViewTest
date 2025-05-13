@@ -6,6 +6,7 @@ export interface Team {
     sport: string;
     membersCount: number;
     logoUrl?: string;
+    slug: string;
 }
 
 export interface Club {

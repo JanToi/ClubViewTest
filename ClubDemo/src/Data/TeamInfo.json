@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Downtown Tigers",
+        "slug": "downtown-tigers",
+        "sport": "Soccer",
+        "membersCount": 18,
+        "logoUrl":"https://clubviewblobtest.blob.core.windows.net/team-logos/Logosmile.png"
+    },
+
+    {
+        "id": 2,
+        "name": "Downtown Hawks",
+        "slug": "downtown-hawks",
+        "sport": "Basketball",
+        "membersCount": 12,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoO.png"
+    },
+    
+    {
+        "id": 3,
+        "name": "Downtown Swimmers",
+        "slug": "downtown-swimmers",
+        "sport": "Swimming",
+        "membersCount": 25,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/Logoangry.png"
+    }
+]
