@@ -153,9 +153,9 @@ const TeamPage = () => {
                     <div className="flex items-center">
                         <div className="flex-shrink-0 relative">
                             <div className="absolute inset-0 bg-gradient-to-br from-white to-gray-100 rounded-xl shadow-inner"></div>
-                            <img
-                                src={team.logoUrl}
-                                alt={team.name}
+                <img
+                    src={team.logoUrl}
+                    alt={team.name}
                                 className="w-24 h-24 object-contain rounded-xl relative z-10"
                             />
                         </div>
@@ -189,7 +189,7 @@ const TeamPage = () => {
             {/* Navigation */}
             <div className="sticky top-0 bg-white shadow-sm z-20">
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-                    <TeamNav activeTab={activeTab} setActiveTab={setActiveTab} />
+            <TeamNav activeTab={activeTab} setActiveTab={setActiveTab} />
                 </div>
             </div>
 
