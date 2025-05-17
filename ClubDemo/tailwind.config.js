@@ -7,7 +7,11 @@ export default {
       // Add any other paths where you use Tailwind classes
     ],
     theme: {
-      extend: {},
+      extend: {
+        fontFamily: {
+          'display': ['Inter', 'system-ui', 'sans-serif'],
+        },
+      },
     },
     plugins: [],
   };

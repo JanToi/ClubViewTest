@@ -5,24 +5,61 @@
         "slug": "downtown-tigers",
         "sport": "Soccer",
         "membersCount": 18,
-        "logoUrl":"https://clubviewblobtest.blob.core.windows.net/team-logos/Logosmile.png"
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/Logosmile.png",
+        "primaryColor": "#FF6B00"
     },
-
     {
         "id": 2,
         "name": "Downtown Hawks",
         "slug": "downtown-hawks",
         "sport": "Basketball",
         "membersCount": 12,
-        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoO.png"
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoO.png",
+        "primaryColor": "#2563EB"
     },
-    
     {
         "id": 3,
         "name": "Downtown Swimmers",
         "slug": "downtown-swimmers",
         "sport": "Swimming",
         "membersCount": 25,
-        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/Logoangry.png"
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/Logoangry.png",
+        "primaryColor": "#0891B2"
+    },
+    {
+        "id": 4,
+        "name": "City United FC",
+        "slug": "city-united-fc",
+        "sport": "Soccer",
+        "membersCount": 22,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoStar.png",
+        "primaryColor": "#DC2626"
+    },
+    {
+        "id": 5,
+        "name": "Royal Eagles SC",
+        "slug": "royal-eagles-sc",
+        "sport": "Soccer",
+        "membersCount": 20,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoCrown.png",
+        "primaryColor": "#4F46E5"
+    },
+    {
+        "id": 6,
+        "name": "Metro Dynamo",
+        "slug": "metro-dynamo",
+        "sport": "Soccer",
+        "membersCount": 21,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoLightning.png",
+        "primaryColor": "#9333EA"
+    },
+    {
+        "id": 7,
+        "name": "Athletic Union",
+        "slug": "athletic-union",
+        "sport": "Soccer",
+        "membersCount": 19,
+        "logoUrl": "https://clubviewblobtest.blob.core.windows.net/team-logos/LogoShield.png",
+        "primaryColor": "#059669"
     }
 ]

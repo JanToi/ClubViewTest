@@ -1,7 +1,6 @@
 import React from "react";
 import type { Club } from "../src/types";
 import TeamCard from "./TeamCard";
-import ClubCalendar from "./ClubCalendar";
 
 interface ClubViewProps {
     club: Club;
@@ -10,25 +9,17 @@ interface ClubViewProps {
 const ClubView: React.FC<ClubViewProps> = ({ club }) => {
     return (
         <div className="w-full max-w-6xl mx-auto p-6 sm:p-8 border border-gray-200 rounded-2xl shadow-xl bg-white">
-            {/* Club info + calendar layout */}
-            <div className="flex flex-col lg:flex-row justify-between items-start gap-6 mb-10">
-                {/* Club logo + name — always centered */}
-                <div className="flex flex-col items-center text-center max-w-md mx-auto">
-                    {club.logoUrl && (
-                        <img
-                            src={club.logoUrl}
-                            alt={`${club.name} logo`}
-                            className="w-44 h-44 object-contain mb-5 rounded-full shadow-md"
-                        />
-                    )}
-                    <h2 className="text-4xl font-bold mb-3 text-indigo-700">{club.name}</h2>
-                    <p className="text-gray-600 text-lg sm:text-xl">Location: {club.location}</p>
-                </div>
-
-                {/* Club calendar */}
-                <div className="w-full lg:w-auto">
-                    <ClubCalendar />
-                </div>
+            {/* Club info layout */}
+            <div className="flex flex-col items-center text-center max-w-md mx-auto mb-10">
+                {club.logoUrl && (
+                    <img
+                        src={club.logoUrl}
+                        alt={`${club.name} logo`}
+                        className="w-44 h-44 object-contain mb-5 rounded-full shadow-md"
+                    />
+                )}
+                <h2 className="text-4xl font-bold mb-3 text-indigo-700">{club.name}</h2>
+                <p className="text-gray-600 text-lg sm:text-xl">Location: {club.location}</p>
             </div>
 
             {/* Teams section */}

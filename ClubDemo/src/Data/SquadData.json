@@ -1,0 +1,657 @@
+{
+    "downtown-tigers": {
+        "squad": [
+            {
+                "id": 1,
+                "number": "1",
+                "name": "Marcus Thompson",
+                "position": "GK",
+                "nationality": "England",
+                "age": 28,
+                "height": "1.88m",
+                "appearances": 15,
+                "cleanSheets": 6
+            },
+            {
+                "id": 2,
+                "number": "2",
+                "name": "Carlos Rivera",
+                "position": "RB",
+                "nationality": "Spain",
+                "age": 24,
+                "height": "1.75m",
+                "appearances": 14,
+                "assists": 3
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "name": "James Wilson",
+                "position": "CB",
+                "nationality": "England",
+                "age": 29,
+                "height": "1.89m",
+                "appearances": 16,
+                "goals": 2
+            },
+            {
+                "id": 4,
+                "number": "5",
+                "name": "Lucas Silva",
+                "position": "CB",
+                "nationality": "Brazil",
+                "age": 26,
+                "height": "1.86m",
+                "appearances": 15,
+                "goals": 1
+            },
+            {
+                "id": 5,
+                "number": "3",
+                "name": "Alex Chen",
+                "position": "LB",
+                "nationality": "China",
+                "age": 23,
+                "height": "1.76m",
+                "appearances": 13,
+                "assists": 2
+            },
+            {
+                "id": 6,
+                "number": "6",
+                "name": "Ibrahim Diallo",
+                "position": "CDM",
+                "nationality": "Senegal",
+                "age": 25,
+                "height": "1.83m",
+                "appearances": 16,
+                "goals": 1,
+                "assists": 2
+            },
+            {
+                "id": 7,
+                "number": "8",
+                "name": "Tom Parker",
+                "position": "CM",
+                "nationality": "England",
+                "age": 27,
+                "height": "1.80m",
+                "appearances": 15,
+                "goals": 3,
+                "assists": 5
+            },
+            {
+                "id": 8,
+                "number": "10",
+                "name": "Marco Rossi",
+                "position": "CAM",
+                "nationality": "Italy",
+                "age": 28,
+                "height": "1.77m",
+                "appearances": 14,
+                "goals": 6,
+                "assists": 8
+            },
+            {
+                "id": 9,
+                "number": "11",
+                "name": "David Kim",
+                "position": "LW",
+                "nationality": "South Korea",
+                "age": 24,
+                "height": "1.74m",
+                "appearances": 15,
+                "goals": 5,
+                "assists": 4
+            },
+            {
+                "id": 10,
+                "number": "7",
+                "name": "Mohammed Al-Saeed",
+                "position": "RW",
+                "nationality": "Saudi Arabia",
+                "age": 23,
+                "height": "1.75m",
+                "appearances": 13,
+                "goals": 4,
+                "assists": 3
+            },
+            {
+                "id": 11,
+                "number": "9",
+                "name": "Harry Williams",
+                "position": "ST",
+                "nationality": "Wales",
+                "age": 25,
+                "height": "1.85m",
+                "appearances": 16,
+                "goals": 12,
+                "assists": 3
+            }
+        ]
+    },
+    "city-united-fc": {
+        "squad": [
+            {
+                "id": 1,
+                "number": "1",
+                "name": "Andre Santos",
+                "position": "GK",
+                "nationality": "Brazil",
+                "age": 27,
+                "height": "1.90m",
+                "appearances": 14,
+                "cleanSheets": 7
+            },
+            {
+                "id": 2,
+                "number": "2",
+                "name": "Ryan Cooper",
+                "position": "RB",
+                "nationality": "USA",
+                "age": 22,
+                "height": "1.78m",
+                "appearances": 15,
+                "assists": 4
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "name": "Lars Nielsen",
+                "position": "CB",
+                "nationality": "Denmark",
+                "age": 30,
+                "height": "1.91m",
+                "appearances": 16,
+                "goals": 1
+            },
+            {
+                "id": 4,
+                "number": "5",
+                "name": "Victor Mendoza",
+                "position": "CB",
+                "nationality": "Argentina",
+                "age": 28,
+                "height": "1.87m",
+                "appearances": 14,
+                "goals": 2
+            },
+            {
+                "id": 5,
+                "number": "3",
+                "name": "Theo Bernard",
+                "position": "LB",
+                "nationality": "France",
+                "age": 24,
+                "height": "1.76m",
+                "appearances": 15,
+                "assists": 3
+            },
+            {
+                "id": 6,
+                "number": "6",
+                "name": "Kai Weber",
+                "position": "CDM",
+                "nationality": "Germany",
+                "age": 26,
+                "height": "1.84m",
+                "appearances": 16,
+                "goals": 2,
+                "assists": 1
+            },
+            {
+                "id": 7,
+                "number": "8",
+                "name": "Jack Thompson",
+                "position": "CM",
+                "nationality": "Scotland",
+                "age": 25,
+                "height": "1.79m",
+                "appearances": 13,
+                "goals": 2,
+                "assists": 6
+            },
+            {
+                "id": 8,
+                "number": "10",
+                "name": "Federico Costa",
+                "position": "CAM",
+                "nationality": "Uruguay",
+                "age": 27,
+                "height": "1.76m",
+                "appearances": 15,
+                "goals": 7,
+                "assists": 9
+            },
+            {
+                "id": 9,
+                "number": "11",
+                "name": "Yuki Tanaka",
+                "position": "LW",
+                "nationality": "Japan",
+                "age": 23,
+                "height": "1.73m",
+                "appearances": 14,
+                "goals": 6,
+                "assists": 5
+            },
+            {
+                "id": 10,
+                "number": "7",
+                "name": "Samuel Osei",
+                "position": "RW",
+                "nationality": "Ghana",
+                "age": 24,
+                "height": "1.77m",
+                "appearances": 15,
+                "goals": 5,
+                "assists": 7
+            },
+            {
+                "id": 11,
+                "number": "9",
+                "name": "Luca Bianchi",
+                "position": "ST",
+                "nationality": "Italy",
+                "age": 29,
+                "height": "1.83m",
+                "appearances": 16,
+                "goals": 14,
+                "assists": 2
+            }
+        ]
+    },
+    "royal-eagles-sc": {
+        "squad": [
+            {
+                "id": 1,
+                "number": "1",
+                "name": "Hugo Martínez",
+                "position": "GK",
+                "nationality": "Spain",
+                "age": 29,
+                "height": "1.89m",
+                "appearances": 15,
+                "cleanSheets": 8
+            },
+            {
+                "id": 2,
+                "number": "2",
+                "name": "Kevin Anderson",
+                "position": "RB",
+                "nationality": "USA",
+                "age": 25,
+                "height": "1.77m",
+                "appearances": 14,
+                "assists": 2
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "name": "Erik Svensson",
+                "position": "CB",
+                "nationality": "Sweden",
+                "age": 28,
+                "height": "1.90m",
+                "appearances": 16,
+                "goals": 1
+            },
+            {
+                "id": 4,
+                "number": "5",
+                "name": "Diego Herrera",
+                "position": "CB",
+                "nationality": "Mexico",
+                "age": 27,
+                "height": "1.85m",
+                "appearances": 15,
+                "goals": 2
+            },
+            {
+                "id": 5,
+                "number": "3",
+                "name": "Pierre Dubois",
+                "position": "LB",
+                "nationality": "France",
+                "age": 23,
+                "height": "1.75m",
+                "appearances": 13,
+                "assists": 3
+            },
+            {
+                "id": 6,
+                "number": "6",
+                "name": "Thomas Müller",
+                "position": "CDM",
+                "nationality": "Germany",
+                "age": 26,
+                "height": "1.82m",
+                "appearances": 16,
+                "goals": 1,
+                "assists": 4
+            },
+            {
+                "id": 7,
+                "number": "8",
+                "name": "Oliver White",
+                "position": "CM",
+                "nationality": "England",
+                "age": 24,
+                "height": "1.78m",
+                "appearances": 15,
+                "goals": 4,
+                "assists": 5
+            },
+            {
+                "id": 8,
+                "number": "10",
+                "name": "Andrea Conti",
+                "position": "CAM",
+                "nationality": "Italy",
+                "age": 28,
+                "height": "1.76m",
+                "appearances": 14,
+                "goals": 8,
+                "assists": 7
+            },
+            {
+                "id": 9,
+                "number": "11",
+                "name": "Lee Min-ho",
+                "position": "LW",
+                "nationality": "South Korea",
+                "age": 25,
+                "height": "1.74m",
+                "appearances": 15,
+                "goals": 7,
+                "assists": 6
+            },
+            {
+                "id": 10,
+                "number": "7",
+                "name": "Ahmed Hassan",
+                "position": "RW",
+                "nationality": "Egypt",
+                "age": 24,
+                "height": "1.76m",
+                "appearances": 16,
+                "goals": 6,
+                "assists": 5
+            },
+            {
+                "id": 11,
+                "number": "9",
+                "name": "Robert Lewis",
+                "position": "ST",
+                "nationality": "Wales",
+                "age": 26,
+                "height": "1.84m",
+                "appearances": 15,
+                "goals": 13,
+                "assists": 4
+            }
+        ]
+    },
+    "metro-dynamo": {
+        "squad": [
+            {
+                "id": 1,
+                "number": "1",
+                "name": "Lukas Kovač",
+                "position": "GK",
+                "nationality": "Croatia",
+                "age": 28,
+                "height": "1.91m",
+                "appearances": 14,
+                "cleanSheets": 5
+            },
+            {
+                "id": 2,
+                "number": "2",
+                "name": "Daniel Johnson",
+                "position": "RB",
+                "nationality": "England",
+                "age": 23,
+                "height": "1.76m",
+                "appearances": 15,
+                "assists": 4
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "name": "Stefan Popov",
+                "position": "CB",
+                "nationality": "Bulgaria",
+                "age": 29,
+                "height": "1.88m",
+                "appearances": 16,
+                "goals": 1
+            },
+            {
+                "id": 4,
+                "number": "5",
+                "name": "João Santos",
+                "position": "CB",
+                "nationality": "Portugal",
+                "age": 27,
+                "height": "1.86m",
+                "appearances": 13,
+                "goals": 2
+            },
+            {
+                "id": 5,
+                "number": "3",
+                "name": "Lucas Fernández",
+                "position": "LB",
+                "nationality": "Argentina",
+                "age": 24,
+                "height": "1.75m",
+                "appearances": 15,
+                "assists": 3
+            },
+            {
+                "id": 6,
+                "number": "6",
+                "name": "Hans Schmidt",
+                "position": "CDM",
+                "nationality": "Germany",
+                "age": 25,
+                "height": "1.83m",
+                "appearances": 16,
+                "goals": 2,
+                "assists": 3
+            },
+            {
+                "id": 7,
+                "number": "8",
+                "name": "Paul Murphy",
+                "position": "CM",
+                "nationality": "Ireland",
+                "age": 26,
+                "height": "1.79m",
+                "appearances": 14,
+                "goals": 3,
+                "assists": 6
+            },
+            {
+                "id": 8,
+                "number": "10",
+                "name": "Giuseppe Romano",
+                "position": "CAM",
+                "nationality": "Italy",
+                "age": 27,
+                "height": "1.77m",
+                "appearances": 15,
+                "goals": 7,
+                "assists": 8
+            },
+            {
+                "id": 9,
+                "number": "11",
+                "name": "Park Ji-sung",
+                "position": "LW",
+                "nationality": "South Korea",
+                "age": 24,
+                "height": "1.74m",
+                "appearances": 16,
+                "goals": 5,
+                "assists": 7
+            },
+            {
+                "id": 10,
+                "number": "7",
+                "name": "Michael Brown",
+                "position": "RW",
+                "nationality": "Scotland",
+                "age": 23,
+                "height": "1.75m",
+                "appearances": 13,
+                "goals": 4,
+                "assists": 5
+            },
+            {
+                "id": 11,
+                "number": "9",
+                "name": "Carlos Vega",
+                "position": "ST",
+                "nationality": "Colombia",
+                "age": 25,
+                "height": "1.82m",
+                "appearances": 15,
+                "goals": 11,
+                "assists": 3
+            }
+        ]
+    },
+    "athletic-union": {
+        "squad": [
+            {
+                "id": 1,
+                "number": "1",
+                "name": "Peter Nielsen",
+                "position": "GK",
+                "nationality": "Denmark",
+                "age": 27,
+                "height": "1.88m",
+                "appearances": 15,
+                "cleanSheets": 7
+            },
+            {
+                "id": 2,
+                "number": "2",
+                "name": "Miguel Torres",
+                "position": "RB",
+                "nationality": "Spain",
+                "age": 24,
+                "height": "1.77m",
+                "appearances": 14,
+                "assists": 3
+            },
+            {
+                "id": 3,
+                "number": "4",
+                "name": "Jan van der Berg",
+                "position": "CB",
+                "nationality": "Netherlands",
+                "age": 29,
+                "height": "1.89m",
+                "appearances": 16,
+                "goals": 2
+            },
+            {
+                "id": 4,
+                "number": "5",
+                "name": "Alessandro Romano",
+                "position": "CB",
+                "nationality": "Italy",
+                "age": 28,
+                "height": "1.87m",
+                "appearances": 15,
+                "goals": 1
+            },
+            {
+                "id": 5,
+                "number": "3",
+                "name": "Antoine Dupont",
+                "position": "LB",
+                "nationality": "France",
+                "age": 23,
+                "height": "1.76m",
+                "appearances": 13,
+                "assists": 4
+            },
+            {
+                "id": 6,
+                "number": "6",
+                "name": "Felix Wagner",
+                "position": "CDM",
+                "nationality": "Germany",
+                "age": 26,
+                "height": "1.84m",
+                "appearances": 16,
+                "goals": 1,
+                "assists": 2
+            },
+            {
+                "id": 7,
+                "number": "8",
+                "name": "Steven Clark",
+                "position": "CM",
+                "nationality": "England",
+                "age": 25,
+                "height": "1.80m",
+                "appearances": 15,
+                "goals": 4,
+                "assists": 5
+            },
+            {
+                "id": 8,
+                "number": "10",
+                "name": "Pablo Rodríguez",
+                "position": "CAM",
+                "nationality": "Argentina",
+                "age": 27,
+                "height": "1.76m",
+                "appearances": 14,
+                "goals": 6,
+                "assists": 9
+            },
+            {
+                "id": 9,
+                "number": "11",
+                "name": "Hiroshi Sato",
+                "position": "LW",
+                "nationality": "Japan",
+                "age": 24,
+                "height": "1.73m",
+                "appearances": 15,
+                "goals": 5,
+                "assists": 6
+            },
+            {
+                "id": 10,
+                "number": "7",
+                "name": "Kwame Mensah",
+                "position": "RW",
+                "nationality": "Ghana",
+                "age": 23,
+                "height": "1.75m",
+                "appearances": 16,
+                "goals": 7,
+                "assists": 4
+            },
+            {
+                "id": 11,
+                "number": "9",
+                "name": "Ivan Petrović",
+                "position": "ST",
+                "nationality": "Serbia",
+                "age": 26,
+                "height": "1.85m",
+                "appearances": 15,
+                "goals": 13,
+                "assists": 3
+            }
+        ]
+    }
+} 
